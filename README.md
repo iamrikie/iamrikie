@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 **Character Specs:**
 ```diff
 +    +2 GCP ecosystem
@@ -17,7 +18,7 @@
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a>
-
+-->
 
 
 <!--
