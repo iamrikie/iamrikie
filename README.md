@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
++    +2 GCP ecosystem
++    +2 NodeJs,Typescript,VueJs
++    +2 Go
++    +2 PHP
+
+-    (Trait: Coffeenista) +30% coffee instake
