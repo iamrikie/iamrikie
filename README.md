@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<!--
 **Character Specs:**
 ```diff
 +    +2 GCP ecosystem
