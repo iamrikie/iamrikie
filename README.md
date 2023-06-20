@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 
+**Character Specs:**
+```diff
++    +2 GCP ecosystem
++    +2 NodeJs,VueJs
++    +2 Go
++    +2 PHP, Laravel
+
+-    (Trait: Coffeenista) +30% coffee instake
+
 <!--
 **Character Specs:**
 ```diff
