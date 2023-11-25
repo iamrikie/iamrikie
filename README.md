@@ -39,7 +39,7 @@
 </a>
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
-</a>
+</a> <br>
 <!-- <a href="https://github.com/iamrikie">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
 </a> -->
