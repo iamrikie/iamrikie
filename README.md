@@ -8,7 +8,13 @@
 <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="125"/>
 </div>
 
+<!--
 <div align="right">
+  <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="15" />
+</div>
+-->
+
+<div style="position: absolute; top: 0; right: 0;">
   <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="15" />
 </div>
 
