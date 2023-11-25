@@ -18,11 +18,11 @@
 **Character Specs:**
 ```diff
 +    +2 GCP ecosystem
-+    +2 PHP, Laravel ![Laravel GIF](https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif)
-+    +2 NodeJs,VueJs
++    +2 PHP, Laravel![Laravel GIF](https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif)
++    +2 NodeJs, VueJs
 +    +2 Java, Spring Boot
 
--    (Trait: Coffeenista) +30% coffee instake
+-    (Trait: Coffeenista) +30% coffee intake
 ```
 <br>
 
