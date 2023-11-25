@@ -5,10 +5,16 @@
 -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gifs" width="100"/>
+<img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gifs" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
+<!--
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gifs" width="100"/>
+</div>
+-->
+
+<img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 
 
 
