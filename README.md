@@ -1,12 +1,12 @@
-<!--
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="120"/>
 </div>
--->
 
+<!--
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="120"/>
 </div>
+-->
 
 <img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 
