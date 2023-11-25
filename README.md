@@ -8,8 +8,8 @@
 <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="125"/>
 </div>
 
-<div id="header" align="right">
-<img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="15"/>
+<div align="right">
+  <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="15" />
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
