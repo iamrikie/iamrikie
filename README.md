@@ -8,6 +8,14 @@
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gifs" width="100"/>
 </div>
 
+<div id="header" align="center">
+<img src="https://giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gifs" width="100"/>
+</div>
+
+<div id="header" align="center">
+<img src="https://giphy.com/3iyKHMIKg5VWG6qHUm/giphy.gifs" width="100"/>
+</div>
+
 <!--
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gifs" width="100"/>
