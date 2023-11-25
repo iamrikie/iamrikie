@@ -26,7 +26,7 @@
 ```
 <br>
 
-### :fire: My Stats :
+### :octocat: My Stats :
 
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
