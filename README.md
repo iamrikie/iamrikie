@@ -27,7 +27,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
+  
 
 
 
@@ -42,6 +42,8 @@
   <a href="https://github.com/"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
 -->
 
 <!--
