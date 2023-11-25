@@ -64,6 +64,8 @@
 
 ---
 
+<br>
+
 ### Get in touch
 <p>
   <a href="https://twitter.com/"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
