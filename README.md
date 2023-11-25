@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="120"/> 
-</div> &nbsp;
+</div> 
 
 <!--
 <div id="header" align="center">
@@ -32,7 +32,7 @@
 
 <a href="https://github.com/iamrikie">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
-</a>
+</a>&nbsp;
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a> <br><br>
