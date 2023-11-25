@@ -19,6 +19,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitataY&layout=compact&theme=vision-friendly-dark)](https://github.com/iamrikie/github-readme-stats)
+
+
 
 
 
