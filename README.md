@@ -34,15 +34,12 @@
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a> <br><br>
-<a href="https://github.com/iamrikie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
 
 
 <!-- 
 <a href="https://github.com/iamrikie">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
 
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
@@ -51,15 +48,12 @@
 <a href="https://github.com/iamrikie">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
 </a>
+
+<a href="https://github.com/iamrikie">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
+</a> 
 -->
-  
 
-
-
-
-
-
-<!--
 ### Get in touch
 <p>
   <a href="https://twitter.com/"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
@@ -67,6 +61,11 @@
   <a href="https://github.com/"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
+
+
+
+<!--
+
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
 -->
