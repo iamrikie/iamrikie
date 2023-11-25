@@ -14,7 +14,6 @@
 
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie)](https://github.com/iamrikie/github-readme-stats" /> -->
 </a>
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
