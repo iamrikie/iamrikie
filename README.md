@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a> <br><br>
 
----
+
 
 <!-- 
 <a href="https://github.com/iamrikie">
@@ -61,6 +61,8 @@
 </a> 
 -->
 <br>
+
+---
 
 ### Get in touch
 <p>
