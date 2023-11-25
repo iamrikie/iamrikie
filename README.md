@@ -20,6 +20,24 @@
 </a>
 
 
+### :octocat: My stats
+
+
+
+
+
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrikie)](https://github.com/iamrikie/github-readme-stats)
+
+
+
+### Get in touch
+<p>
+  <a href="https://twitter.com/"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in//"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  
+</p>
+
 
 <!--
 **iamrikie/iamrikie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
