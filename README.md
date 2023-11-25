@@ -18,7 +18,9 @@
 **Character Specs:**
 ```diff
 +    +2 GCP ecosystem
-+    +2 PHP, Laravel
++    +2 PHP, Laravel <div id="header" align="center">
+<img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="10"/>
+</div>
 +    +2 NodeJs,VueJs
 +    +2 Java, Spring Boot
 
