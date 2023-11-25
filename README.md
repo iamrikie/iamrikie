@@ -1,6 +1,9 @@
+<!--
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 </div>
+-->
+
 
 <div id="header" align="center">
 <img src="https://giphy.com/stickers/GDevs-sticker-community-google-HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
