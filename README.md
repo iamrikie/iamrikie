@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a>
 
-
+https://github-readme-stats.vercel.app/api?username=iamrikie)](https://github.com/iamrikie/github-readme-stats"
 
 
 
