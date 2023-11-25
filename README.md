@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-<img src="https://giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gifs" width="100"/>
+<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gifs" width="100"/>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
