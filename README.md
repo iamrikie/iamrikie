@@ -8,10 +8,6 @@
 <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="125"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/kHlrPbN9zaoOo7KXDo/giphy.gif" width="15" />
-</div>
-
 <img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 
 
@@ -71,13 +67,5 @@
   <a href="https://github.com/"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
 </p>
-
-
-
-<!--
-
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
--->
 
 
