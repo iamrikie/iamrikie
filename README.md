@@ -29,18 +29,29 @@
 ### :octocat: My Stats :
 
 <a href="https://github.com/iamrikie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
 </a>
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a> <br><br>
-<!-- <a href="https://github.com/iamrikie">
+<a href="https://github.com/iamrikie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+
+
+<!-- 
+<a href="https://github.com/iamrikie">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
-</a> -->
+</a> 
+
+<a href="https://github.com/iamrikie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
+</a> <br><br>
+
 <a href="https://github.com/iamrikie">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
 </a>
-
+-->
   
 
 
