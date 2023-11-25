@@ -11,18 +11,18 @@
 -    (Trait: Coffeenista) +30% coffee instake
 ```
 
+### :fire: My Stats :
 
 <a href="https://github.com/iamrikie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&theme=dark&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrikie&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/iamrikie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact" />
 </a>
 
-### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitataY&layout=compact&theme=vision-friendly-dark)](https://github.com/iamrikie/github-readme-stats)
 
 
 
