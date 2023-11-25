@@ -10,7 +10,7 @@
 
 -    (Trait: Coffeenista) +30% coffee instake
 ```
-<br><br>
+<br>
 
 ### :fire: My Stats :
 
