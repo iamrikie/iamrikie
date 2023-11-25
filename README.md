@@ -1,24 +1,6 @@
-<!--
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gifs" width="150"/>
-</div>
--->
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="100"/>
 </div>
-
-
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gifs" width="100"/>
-</div>
-
-
-<!--
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gifs" width="100"/>
-</div>
--->
 
 <img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 
