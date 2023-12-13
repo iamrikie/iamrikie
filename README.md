@@ -30,7 +30,7 @@
 
 ---
 
-### :octocat: My Stats :
+### :octocat: My stats
 
 <a href="https://github.com/iamrikie">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
