@@ -5,10 +5,12 @@
 <!--
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="120"/>
+<img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 </div>
 -->
 
-<img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
+
+<img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
 
 
 
