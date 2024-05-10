@@ -9,9 +9,10 @@
 </div>
 -->
 
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
-
+-->
+<img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 
 
 ### Hi there 👋
