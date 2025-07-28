@@ -1,4 +1,9 @@
 <div id="header" align="center">
+
+<a href="https://bit.ly/ndugireian">
+<img src="static/codegif.webp" width ="30">
+</a>
+  
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="120"/> 
 </div> 
 
