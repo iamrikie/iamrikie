@@ -46,7 +46,7 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=iamrikie&theme=dark)](https://git.io/streak-stats" />
 </a> &nbsp;
 <a href="https://github.com/iamrikie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact&hide=css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrikie&layout=compact&hide=" />
 </a> <br><br>
 
 
