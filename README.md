@@ -18,11 +18,11 @@
 <img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
 -->
 <img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
-
+<!--
 <a href="https://bit.ly/ndugireian">
 <img src="static/codegif.webp" width ="30">
 </a>
-
+-->
 
 ### Hi there 👋
 
