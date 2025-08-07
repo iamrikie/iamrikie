@@ -65,7 +65,7 @@
 
 ### Get in touch
 <p>
-  <a href="https://x.com"><img src="https://img.icons8.com/ios-filled/45/ffffff/twitterx--v1.png" alt="X"/></a>
+  <a href="https://x.com"><img src="https://img.icons8.com/ios-filled/47/000000/twitterx--v1.png" alt="X"/></a>
   <a href="https://www.linkedin.com/in/ian-ndugire-827b071a5/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/iamrikie"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
