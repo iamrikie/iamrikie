@@ -65,7 +65,7 @@
 
 ### Get in touch
 <p>
-  <a href="https://x.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg" alt="X (formerly Twitter)" width="32" height="32"/></a>
+  <a href="https://x.com"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/ian-ndugire-827b071a5/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/iamrikie"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
