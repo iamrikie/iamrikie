@@ -7,16 +7,7 @@
 <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="120"/> 
 </div> 
 
-<!--
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif" width="120"/>
-<img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
-</div>
--->
 
-<!--
-<img src="https://komarev.com/ghpvc/?username=GitataY&style=flat-square&color=blue" alt=""/>
--->
 <img src="https://komarev.com/ghpvc/?username=iamrikie&style=flat-square&color=blue" alt=""/>
 <!--
 <a href="https://bit.ly/ndugireian">
@@ -74,7 +65,7 @@
 
 ### Get in touch
 <p>
-  <a href="https://x.com/"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://x.com/"><img src="https://img.icons8.com/ios-filled/50/111111/x--v1.png" alt="X"/></a>
   <a href="https://www.linkedin.com/in/ian-ndugire-827b071a5/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/iamrikie"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   
