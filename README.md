@@ -20,10 +20,12 @@
 
 **Character Specs:**
 ```diff
-+    +2 GCP ecosystem
-+    +2 PHP, Laravel
-+    +2 NodeJs, VueJs
-+    +2 Java, Spring Boot
++    +2 GCP Ecosystem
++    +2 AWS Ecosystem
++    +2 PHP / Laravel
++    +2 NodeJs / VueJs
++    +2 TypeScript, Python
++    +2 Shell, #ForeverLearning
 
 -    (Trait: Coffeenista) +30% coffee intake
 ```
